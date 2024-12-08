@@ -1,0 +1,7 @@
+~/.pypirc 
+redsage.yaml 
+dist
+__pycache__/
+*.pyc
+.env
+dist/

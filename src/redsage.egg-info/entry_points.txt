@@ -1,0 +1,2 @@
+[console_scripts]
+redsage = redsage.cli:main
